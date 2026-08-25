@@ -7,7 +7,7 @@
 
 ![static ip address](images/static-ip-address.png)
 
-### 2. Install AD DS and promote server to Domain Controller
+### 2. Installed AD DS and promoted server to Domain Controller
 
 ![static ip address](images/domain-controller.png)
 
