@@ -1,7 +1,7 @@
 ## Lab 2: Windows Server and Active Directory 
 ### Objective
  This lab was created to develop practical experience with Windows Server 2022 and Active Directory in a simulated IT support environment. The objective was to configure a domain controller, create and manage users and security groups, join Windows 11 machines to the domain, reset passwords and authenticate using domain accounts.
-### Method: Created a Windows Server 2022 Virtual Machines with Oracle Virtualbox
+### Methodology: Created a Windows Server 2022 Virtual Machines with Oracle Virtualbox
 
 ### 1. Configured a static IP address for the domain controller
 
@@ -9,4 +9,6 @@
 
 ### 2. Install AD DS and promote server to Domain Controller
 
-!
+![static ip address](images/domain-controller.png)
+
+
