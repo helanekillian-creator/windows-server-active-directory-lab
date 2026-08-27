@@ -31,7 +31,7 @@ Created test user accounts and security groups in Active Directory to practise c
 - Created user accounts
 - Created organisational units
 - Added users to appropriate groups
-- Managed user account properties
+
 ### Evidence
 -Created an OU
 ![OUs](images/New-OU.png)
@@ -39,8 +39,8 @@ Created test user accounts and security groups in Active Directory to practise c
 -Created a new Group
 ![Groups](images/Create-Group.png)
 
-Created a new User
-![Groups](images/Create-Group..png)
+-Created a new User
+![Groups](images/New-User.png)
 
 
 
