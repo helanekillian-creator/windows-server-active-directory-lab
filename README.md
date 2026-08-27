@@ -33,16 +33,32 @@ Created test user accounts and security groups in Active Directory to practise c
 - Added users to appropriate groups
 
 ### Evidence
--Created an OU
+- Created an OU
 ![OUs](images/New-OU.png)
 
--Created a new Group
+- Created a new Group
 ![Groups](images/Create-Group.png)
 
--Created a new User
+- Created a new User
 ![Groups](images/New-User.png)
 
+- Added user to a Group
+![Add](images/add-user- to-group.png)
 
+### 4. Domain Authentication
+
+Joined the Windows client to the Active Directory domain and verified that a domain user could authenticate successfully.
+
+**Tasks performed:**
+- Joined the Windows client to the domain
+- Signed in using a domain user account
+- Verified the authenticated user and domain
+
+### Evidence
+
+![Domain Login](screenshots/domain-login.png)
+
+![Authenticated Domain User](screenshots/whoami.png)
 
 
 
