@@ -23,7 +23,7 @@ Created test user accounts and security groups in Active Directory to practise c
 - Added users to appropriate groups
 - Managed user account properties
 ### Evidence
-![OUs](images/Create-an-OU.png)
+![OUs](images/New-OU.png)
 ![Groups](images/Create-Group.png)
 
 
