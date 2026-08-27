@@ -24,7 +24,8 @@ Created test user accounts and security groups in Active Directory to practise c
 - Managed user account properties
 ### Evidence
 ![OUs](images/Create an OU.png)
-![Groups](images/groups.png)
+![Groups](images/Create Group.png)
+
 
 
 
