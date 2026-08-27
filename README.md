@@ -7,10 +7,20 @@ This lab demonstrates a basic Windows Server 2022 and Active Directory environme
 ### 1. Static IP Configuration
 Configured a static IPv4 address on the Windows Server to provide a consistent network address for the Domain Controller and Active Directory services.
 
+**Configuration included:**
+- Static IPv4 address
+- Subnet mask
+- Default gateway
+- Preferred DNS server
 ![static ip address](images/static-ip-address.png)
 
 ### 2. Domain Controller 
 Promoted Windows Server as a Domain Controller by installing Active Directory Domain Services (AD DS) and creating a Windows domain.
+
+**Tasks performed:**
+- Installed the Active Directory Domain Services role
+- Promoted the server to a Domain Controller
+- Created and configured the lab domain
 
 ![DC](images/domain-controller.png)
 
@@ -23,8 +33,14 @@ Created test user accounts and security groups in Active Directory to practise c
 - Added users to appropriate groups
 - Managed user account properties
 ### Evidence
+-Created an OU
 ![OUs](images/New-OU.png)
+
+-Created a new Group
 ![Groups](images/Create-Group.png)
+
+Created a new User
+![Groups](images/Create-Group..png)
 
 
 
