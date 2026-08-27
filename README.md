@@ -12,7 +12,7 @@ Configured a static IPv4 address on the Windows Server to provide a consistent n
 ### 2. Domain Controller 
 Promoted Windows Server as a Domain Controller by installing Active Directory Domain Services (AD DS) and creating a Windows domain.
 
-![static ip address](images/domain-controller.png)
+![DC](images/domain-controller.png)
 
 ### 3. User & Group Management
 Created test user accounts and security groups in Active Directory to practise common user administration tasks.
@@ -23,8 +23,8 @@ Created test user accounts and security groups in Active Directory to practise c
 - Added users to appropriate groups
 - Managed user account properties
 ### Evidence
-![OUs](images/Create an OU.png)
-![Groups](images/Create Group.png)
+![OUs](images/Create-an-OU.png)
+![Groups](images/Create-Group.png)
 
 
 
