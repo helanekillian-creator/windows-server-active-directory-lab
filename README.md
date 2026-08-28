@@ -52,7 +52,7 @@ Created test user accounts and security groups in Active Directory to practise c
 
 ### Added user to a Group
 
-![Add](images/add-user- to-group.png)
+![Add](images/add-user-to-group.png)
 
 ### 4. Domain Authentication
 
