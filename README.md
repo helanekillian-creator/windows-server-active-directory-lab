@@ -1,9 +1,11 @@
 ## Lab Overview: Windows Server and Active Directory 
 The lab was created to develop hands-on IT support and system administration skills, including user management, domain authentication, password resets, account lockout management, and basic access control.
 ### VirtualBox Overview
+
 ![VirtualBox Lab Environment](images/VirtualBox.png)
 
 ### WIndows Server 2022
+
 ![Windows Server](images/Server-01.png)
 
 ### 1. Static IP Configuration
@@ -14,6 +16,7 @@ Configured a static IPv4 address on the Windows Server to provide a consistent n
 - Subnet mask
 - Default gateway
 - Preferred DNS server
+
 ![static ip address](images/static-ip-address.png)
 
 ### 2. Domain Controller 
@@ -36,15 +39,19 @@ Created test user accounts and security groups in Active Directory to practise c
 
 ### Evidence
 ### Created an OU
+
 ![OUs](images/New-OU.png)
 
 ### Created a new Group
+
 ![Groups](images/Create-Group.png)
 
 ### Created a new User
+
 ![Groups](images/New-User.png)
 
 ### Added user to a Group
+
 ![Add](images/add-user- to-group.png)
 
 ### 4. Domain Authentication
