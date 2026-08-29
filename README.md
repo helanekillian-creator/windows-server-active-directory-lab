@@ -54,7 +54,20 @@ Created test user accounts and security groups in Active Directory to practise c
 
 ![Add](images/add-user-to-group.png)
 
-### 4. Domain Authentication
+## 4. Client Network Configuration
+
+Configured the Windows client network settings to communicate with the Active Directory Domain Controller.
+
+**Tasks performed:**
+- Configured the client's network settings
+- Set the preferred DNS server to the Domain Controller's IP address
+- Verified network connectivity to the Domain Controller
+
+### Evidence
+
+![Client DNS Configuration](images/client-dns.png)
+
+### 5. Domain Authentication
 
 Joined the Windows client to the Active Directory domain and verified that a domain user could authenticate successfully.
 
