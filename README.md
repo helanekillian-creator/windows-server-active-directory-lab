@@ -90,10 +90,12 @@ Joined the Windows client to the Active Directory domain and verified that a dom
 Practised resetting a user's Active Directory password, simulating a common Service Desk request.
 
 ### Evidence
-### Reset the user's password
+### Reset the user's password & Configured the account to require a password change at next logon
+
 ![User Account](images/Patricia-reset-password.png)
 
-- Configured the account to require a password change at next logon
+![Add](Patricia-password-changed-02.png).
+
 - Verified that the user could authenticate successfully
 
 
