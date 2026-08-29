@@ -32,11 +32,6 @@ Promoted Windows Server as a Domain Controller by installing Active Directory Do
 ### 3. User & Group Management
 Created test user accounts and security groups in Active Directory to practise common user administration tasks.
 
-**Tasks performed:**
-- Created user accounts
-- Created organisational units
-- Added users to appropriate groups
-
 ### Evidence
 ### Created an OU
 
@@ -58,16 +53,13 @@ Created test user accounts and security groups in Active Directory to practise c
 
 Configured the Windows client network settings to communicate with the Active Directory Domain Controller.
 
-**Tasks performed:**
-- Configured the client's network settings
-- Set the preferred DNS server to the Domain Controller's IP address
-- Verified network connectivity to the Domain Controller
-
 ### Evidence
-Setting DNS Server
+### Set the preferred DNS server to the Domain Controller's IP address
+
 ![Client DNS Configuration](images/DNS-server.png)
 
-Verified Connectivity using the Ping command
+### Verified network connectivity to the Domain Controller
+![ping DC](images/ping-01.png)
 
 ### 5. Domain Authentication
 
