@@ -54,7 +54,6 @@ Created test user accounts and security groups in Active Directory to practise c
 ![Add](images/Jeremy-02.png)
 
 ### 4.1. Client Network Configuration
-
 Configured the Windows client network settings to communicate with the Active Directory Domain Controller.
 
 ### Evidence
@@ -118,19 +117,22 @@ Simulated a common Service Desk scenario where a user accidentally locked themse
 ![User Account](images/Lockout-04.png)
 
 ## 8. Disabling & Enabling User Accounts
-
 Practised the administrative process for employee offboarding and extended leave by manually disabling and re-enabling a user account.
 
-**Tasks performed:**
-- Manually disabled a user account in Active Directory to simulate an HR offboarding request.
-- Verified the account icon updated with the downward arrow symbol, indicating a disabled state.
-- Attempted a client login to confirm access was strictly denied.
-- Re-enabled the account and confirmed the user could successfully log back in.
-### Evidence
+### Manually disabled a user account in Active Directory to simulate an HR offboarding request.
 
-![Client Lockout Error](screenshots/lockout-client-error.png)
+![User Account](images/disabled-01.png)
 
+### Verified the account icon updated with the downward arrow symbol, indicating a disabled state.
 
+![User Account](images/disabled-02.png)
+
+### Attempted a client login to confirm access was strictly denied.
+
+![User Account](images/disabled-03.png)
+
+### Re-enabled the account and confirmed the user could successfully log back in.
+![User Account](images/disabled-04.png)
 
 
 
