@@ -85,3 +85,18 @@ Joined the Windows client to the Active Directory domain and verified that a dom
 ### Verified the authenticated user and domain
 
 ![ADD](images/whoami.png)
+
+## 6. Password Reset
+Practised resetting a user's Active Directory password, simulating a common Service Desk request.
+
+### Evidence
+### Reset the user's password
+
+
+- Configured the account to require a password change at next logon
+- Verified that the user could authenticate successfully
+
+
+
+![User Account](screenshots/password-reset-user.png)
+
