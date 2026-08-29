@@ -63,17 +63,22 @@ Configured the Windows client network settings to communicate with the Active Di
 ![Client DNS Configuration](images/DNS-server.png)
 
 ### Verified network connectivity to the Domain Controller
+
 ![ping DC](images/ping-DNS.png)
 
 ### 4.2. Domain Authentication
-
 Joined the Windows client to the Active Directory domain and verified that a domain user could authenticate successfully.
+
 ### Evidence
 ### Joined the Windows client to the domain
-![Domain Login](images/Jeremy-01.png)
 
 ![Authenticated Domain User](images/Domain-joined-confirmation.png)
-- Signed in using a domain user account
+
+### Client successfully joined to the domain
+
+![Domain Login](images/Jeremy-01.png)
+
+### Signed in using client's user account
 - Verified the authenticated user and domain
 
 
