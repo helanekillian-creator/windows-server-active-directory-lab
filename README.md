@@ -94,11 +94,13 @@ Practised resetting a user's Active Directory password, simulating a common Serv
 
 ![User Account](images/Patricia-reset-password.png)
 
-![Add](Patricia-password-changed-02.png).
+### Password was successfully changed
 
-- Verified that the user could authenticate successfully
+![User Account](images/Patricia-password-changed.png)
 
 
 
-![User Account](screenshots/password-reset-user.png)
+
+
+
 
