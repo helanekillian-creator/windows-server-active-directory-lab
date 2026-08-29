@@ -91,7 +91,7 @@ Practised resetting a user's Active Directory password, simulating a common Serv
 
 ### Evidence
 ### Reset the user's password
-
+![User Account](images/Patricia-reset-password.png)
 
 - Configured the account to require a password change at next logon
 - Verified that the user could authenticate successfully
