@@ -98,6 +98,20 @@ Practised resetting a user's Active Directory password, simulating a common Serv
 
 ![User Account](images/Patricia-password-changed.png)
 
+## 7. Account Lockout & Re-enablement
+
+Simulated a common Service Desk scenario where a user accidentally locked themselves out of their account by entering the incorrect password multiple times.
+## Triggered an account lockout by intentionally entering incorrect credentials on the client workstation.
+
+![User Account](images/Lockout-01.png)
+- Confirmed the user account status changed to locked within Active Directory Users and Computers (ADUC).
+- Cleared the lockout flag in ADUC to restore user access.
+- Verified successful user authentication on the workstation following the unlock.
+
+### Evidence
+
+![Client Lockout Error](screenshots/lockout-client-error.png)
+
 
 
 
