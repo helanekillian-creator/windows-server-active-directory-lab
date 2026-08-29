@@ -65,7 +65,9 @@ Configured the Windows client network settings to communicate with the Active Di
 
 ### Evidence
 
-![Client DNS Configuration](images/client-dns.png)
+![Client DNS Configuration](images/DNS-server.png)
+
+
 
 ### 5. Domain Authentication
 
