@@ -64,10 +64,10 @@ Configured the Windows client network settings to communicate with the Active Di
 - Verified network connectivity to the Domain Controller
 
 ### Evidence
-
+Setting DNS Server
 ![Client DNS Configuration](images/DNS-server.png)
 
-
+Verified Connectivity using the Ping command
 
 ### 5. Domain Authentication
 
