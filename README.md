@@ -51,7 +51,7 @@ Created test user accounts and security groups in Active Directory to practise c
 
 ## 4. Joined client to the Domain 
 ### Client : Jeremy Lewis
-![Add](images/add-user-to-group.png)
+![Add](images/Jeremy-02.png)
 
 ### 4.1. Client Network Configuration
 
@@ -63,22 +63,17 @@ Configured the Windows client network settings to communicate with the Active Di
 ![Client DNS Configuration](images/DNS-server.png)
 
 ### Verified network connectivity to the Domain Controller
-![ping DC](images/ping-01.png)
+![ping DC](images/ping-DNS.png)
 
 ### 4.2. Domain Authentication
 
 Joined the Windows client to the Active Directory domain and verified that a domain user could authenticate successfully.
+### Evidence
+### Joined the Windows client to the domain
+![Domain Login](images/Jeremy-01.png)
 
-**Tasks performed:**
-- Joined the Windows client to the domain
+![Authenticated Domain User](images/Domain-joined-confirmation.png)
 - Signed in using a domain user account
 - Verified the authenticated user and domain
-
-### Evidence
-
-![Domain Login](screenshots/domain-login.png)
-
-![Authenticated Domain User](screenshots/whoami.png)
-
 
 
