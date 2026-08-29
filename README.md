@@ -79,6 +79,9 @@ Joined the Windows client to the Active Directory domain and verified that a dom
 ![Domain Login](images/Jeremy-01.png)
 
 ### Signed in using client's user account
+
+![Domain Login](images/sign-in.png)
+
 - Verified the authenticated user and domain
 
 
