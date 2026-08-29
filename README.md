@@ -4,7 +4,7 @@ The lab was created to develop hands-on IT support and system administration ski
 
 ![VirtualBox Lab Environment](images/VirtualBox.png)
 
-### WIndows Server 2022
+### Windows Server 2022
 
 ![Windows Server](images/Server-01.png)
 
