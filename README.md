@@ -104,10 +104,24 @@ Simulated a common Service Desk scenario where a user accidentally locked themse
 ## Triggered an account lockout by intentionally entering incorrect credentials on the client workstation.
 
 ![User Account](images/Lockout-01.png)
-- Confirmed the user account status changed to locked within Active Directory Users and Computers (ADUC).
-- Cleared the lockout flag in ADUC to restore user access.
-- Verified successful user authentication on the workstation following the unlock.
 
+### Confirmed the user account status changed to locked within Active Directory Users and Computers (ADUC).
+![User Account](images/Lockout-02.png)
+
+### Cleared the lockout flag in ADUC to restore user access.
+![User Account](images/Patricia-password-changed.png)
+
+### Verified successful user authentication on the workstation following the unlock.
+
+## 8. Disabling & Enabling User Accounts
+
+Practised the administrative process for employee offboarding and extended leave by manually disabling and re-enabling a user account.
+
+**Tasks performed:**
+- Manually disabled a user account in Active Directory to simulate an HR offboarding request.
+- Verified the account icon updated with the downward arrow symbol, indicating a disabled state.
+- Attempted a client login to confirm access was strictly denied.
+- Re-enabled the account and confirmed the user could successfully log back in.
 ### Evidence
 
 ![Client Lockout Error](screenshots/lockout-client-error.png)
