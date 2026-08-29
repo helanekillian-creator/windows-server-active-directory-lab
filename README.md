@@ -76,12 +76,12 @@ Joined the Windows client to the Active Directory domain and verified that a dom
 
 ### Client successfully joined to the domain
 
-![Domain Login](images/Jeremy-01.png)
+![ADD](images/Jeremy-01.png)
 
 ### Signed in using client's user account
 
 ![Domain Login](images/sign-in.png)
 
-- Verified the authenticated user and domain
+### Verified the authenticated user and domain
 
-
+![ADD](images/whoami.png)
